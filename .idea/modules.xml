@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Proautocue-Androidteleprompter.iml" filepath="$PROJECT_DIR$/Proautocue-Androidteleprompter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pro-autocue-Android-Teleprompter.iml" filepath="$PROJECT_DIR$/Pro-autocue-Android-Teleprompter.iml" group="Pro-autocue-Android-Teleprompter" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Pro-autocue-Android-Teleprompter/app" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kizitonwose.colorpreference:core:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/core-1.0.3.aar/bbe811f9c2956f0d5991c4486c31de28/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/core-1.0.3.aar/bbe811f9c2956f0d5991c4486c31de28/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

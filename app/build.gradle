@@ -26,12 +26,16 @@ android {
             signingConfig signingConfigs.config
         }
     }
+    flavorDimensions "version"
+
     productFlavors {
         free {
+            dimension "version"
             applicationId "com.mrerror.proautocue_androidteleprompter.free"
         }
 
         paid {
+            dimension "version"
             applicationId "com.mrerror.proautocue_androidteleprompter.paid"
         }
     }

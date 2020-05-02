@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.angads25:filepicker:1.1.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/filepicker-1.1.1.aar/4494ea1994f08b28e3bf3115c5985ca3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/filepicker-1.1.1.aar/4494ea1994f08b28e3bf3115c5985ca3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.github.angads25/filepicker/1.1.1/36da4e3f1414b663a6c1770a971c11aafb768500/filepicker-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
